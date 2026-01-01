@@ -1,5 +1,6 @@
-name = "youtube"
+name = "youtube-react-homepage"
 compatibility_date = "2026-01-01"
 
-[[site]]
+[site]
 bucket = "./dist"
+entry-point = "src"
